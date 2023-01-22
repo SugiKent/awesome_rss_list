@@ -69,6 +69,9 @@
     <outline title="Individual" text="Individual">
       <outline title="S.T.Blog" text="S.T.Blog" type="rss" xmlUrl="https://shuhey-hashimoto.com/feed/"/>
       <outline title="YusukeHosonumaの記事 - Qiita" text="YusukeHosonumaの記事 - Qiita" type="rss" xmlUrl="https://qiita.com/YusukeHosonuma/feed"/>
+      <outline title="yorifujiさんのフィード" text="yorifujiさんのフィード" type="rss" xmlUrl="https://zenn.dev/yorifuji/feed"/>
+      <outline title="ユージン@個人開発" text="ユージン@個人開発" type="rss" xmlUrl="https://note.com/eugene_n20/rss"/>
+      <outline title="あたか🍄さんのフィード" text="あたか🍄さんのフィード" type="rss" xmlUrl="https://zenn.dev/ataka/feed"/>
     </outline>
     <outline title="Tech" text="Tech">
       <outline title="JSer.info" text="JSer.info" type="rss" xmlUrl="http://jser.info/rss"/>
